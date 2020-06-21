@@ -51,7 +51,6 @@ implementation 'androidx.appcompat:appcompat:1.1.0-alpha05'
     implementation "androidx.paging:paging-runtime:2.1.0"  
     
 ```
-```bash
     //Rx
     implementation 'io.reactivex.rxjava2:rxjava:2.2.7'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
