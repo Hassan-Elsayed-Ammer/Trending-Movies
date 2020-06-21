@@ -1,13 +1,13 @@
 # Trending-Movies
 Android App To Get The Trending Movies With Modern UI
 
-## Description
+### Description
 
 user can see The Latest Trending Movies 
 with Friendly Modern UI And See All Most Important Details like Rating, year of production And Stars of movies.
 
-## Technology used
-I tried to make a simple app as an application on the latest technology that is in Android until now
+# Technology used
+## I tried to make a simple app as an application on the latest technology that is in Android until now
 
 ## By using
 * Kotlin
