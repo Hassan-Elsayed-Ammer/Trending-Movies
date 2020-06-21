@@ -18,6 +18,8 @@ with Friendly Modern UI And See All Most Important Details like Rating, year of 
 
 * MotionLayout
 
+![](https://github.com/HassanAlex/Trending-Movies/blob/master/gif/trending%20movies%20gif.gif)
+
 <img src="images/Screenshot_Trending_Movies_01.jpg" height=300, width=200 >
 
 <img src="images/Screenshot_Trending_Movies_03.jpg" height=300, width=200 >
@@ -25,6 +27,8 @@ with Friendly Modern UI And See All Most Important Details like Rating, year of 
 <img src="images/Screenshot_Trending_Movies_04.jpg" height=300, width=200 >
 
 <img src="images/Screenshot_Trending_Movies_05.jpg" height=300, width=200 >
+
+
 
 ## Libraries
 
