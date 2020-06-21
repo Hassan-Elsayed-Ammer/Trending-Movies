@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trending Movies</string>
+    <string name="connection_problem">Connection Problem!!</string>
+    <string name="movie">movie</string>
+</resources>
