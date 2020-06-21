@@ -46,7 +46,6 @@ implementation 'androidx.appcompat:appcompat:1.1.0-alpha05'
     implementation 'com.github.bumptech.glide:glide:4.8.0'
 
 ```bash
- 
     // Paging
     implementation "androidx.paging:paging-runtime:2.1.0" 
 ```
