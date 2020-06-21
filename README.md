@@ -15,7 +15,16 @@ with Friendly Modern UI And See All Most Important Details like Rating, year of 
 * Retrofit 2
 * RXJava 2
 * pagination
+
 * MotionLayout
+
+<img src="images/Screenshot_Trending_Movies_01.jpg" height=300, width=200 >
+
+<img src="images/Screenshot_Trending_Movies_03.jpg" height=300, width=200 >
+
+<img src="images/Screenshot_Trending_Movies_04.jpg" height=300, width=200 >
+
+<img src="images/Screenshot_Trending_Movies_05.jpg" height=300, width=200 >
 
 ## Libraries
 
