@@ -24,9 +24,9 @@ apply plugin: 'kotlin-android-extensions'
 
 ```
 ```bash
-    implementation 'androidx.appcompat:appcompat:1.1.0-alpha05'
+implementation 'androidx.appcompat:appcompat:1.1.0-alpha05'
 ```    
-  
+```bash  
     //ViewModel and LiveData
     implementation 'androidx.lifecycle:lifecycle-extensions:2.0.0'
 
@@ -45,16 +45,13 @@ apply plugin: 'kotlin-android-extensions'
     // Glide
     implementation 'com.github.bumptech.glide:glide:4.8.0'
 
- ```bash
+```
  
     // Paging
-    implementation "androidx.paging:paging-runtime:2.1.0"
-    
+    implementation "androidx.paging:paging-runtime:2.1.0"  
     
 ```
-    
-    ```bash
-
+```bash
     //Rx
     implementation 'io.reactivex.rxjava2:rxjava:2.2.7'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
