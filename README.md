@@ -44,6 +44,7 @@ implementation 'androidx.appcompat:appcompat:1.1.0-alpha05'
 
     // Glide
     implementation 'com.github.bumptech.glide:glide:4.8.0'
+```
 
 ```bash
     // Paging
