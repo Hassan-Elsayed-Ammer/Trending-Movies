@@ -1,5 +1,5 @@
 # Trending-Movies
-Android App To Get The Trending Movies By Useing Movie APIs With Modern UI
+Android App To Get The Trending Movies By Using Movie APIs With Modern UI
 
 ### Description
 
