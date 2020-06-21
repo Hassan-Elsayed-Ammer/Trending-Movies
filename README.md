@@ -23,8 +23,9 @@ I tried to make a simple app as an application on the latest technology that is 
 apply plugin: 'kotlin-android-extensions'
 
 ```
-
+```bash
     implementation 'androidx.appcompat:appcompat:1.1.0-alpha05'
+```    
   
     //ViewModel and LiveData
     implementation 'androidx.lifecycle:lifecycle-extensions:2.0.0'
