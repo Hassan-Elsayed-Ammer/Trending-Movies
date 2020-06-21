@@ -22,6 +22,8 @@ I tried to make a simple app as an application on the latest technology that is 
 ```bash
 apply plugin: 'kotlin-android-extensions'
 
+```
+
     implementation 'androidx.appcompat:appcompat:1.1.0-alpha05'
   
     //ViewModel and LiveData
@@ -57,4 +59,3 @@ apply plugin: 'kotlin-android-extensions'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
 
 ```
-
